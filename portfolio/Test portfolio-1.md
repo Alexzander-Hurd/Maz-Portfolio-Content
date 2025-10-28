@@ -6,5 +6,3 @@ images: ["../../assets/hero-image.jpg","../../assets/blog-placeholder-1.jpg","..
 ---
 
 ## Testing
-
-This is a new blog post
