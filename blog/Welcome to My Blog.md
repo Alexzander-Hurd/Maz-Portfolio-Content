@@ -5,6 +5,6 @@ pubDate: Nov 14 2025
 images: ["../../../public/Blog/Wentworth Portrait.jpg"]
 ---
 
-## Testing
+## Welcome to My Blog!
 
-This is a new blog post
+In the future this will be a space where I share the exhibitions that feature my [art](/portfolio), the galleries I visit and a curated selection and background on some of the photos you can find on my [photography](/photography) page!
