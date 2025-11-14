@@ -2,7 +2,8 @@
 title: Welcome to My Blog
 description: My first blog post
 pubDate: Nov 14 2025
-images: ["../../../public/Blog/Wentworth Portrait.jpg"]
+images:
+  - ../../../public/images/Blog/Wentworth Portrait.jpg
 ---
 
 ## Welcome to My Blog!
