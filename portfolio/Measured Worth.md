@@ -1,7 +1,7 @@
 ---
 title: Measured Worth
 description: The figure, wrapped and constricted by measuring tapes, becomes a symbol of how society quantifies value through size, weight, and appearance
-pubDate: Aug 14 2025
+pubDate: Oct 07 2025
 images: ["../../../public/images/Art/Measured Worth.webp"]
 ---
 
